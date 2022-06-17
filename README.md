@@ -65,6 +65,10 @@ You can find the following figures in 'figures' folder.
 
 ![Figure1](https://user-images.githubusercontent.com/97193844/174284121-700779cd-a40b-4908-9d0a-1ba7c0feb0e8.jpg)
 
+Also you can find the contours for both eccentricity and angle of the V1.
+
+![Figure2](https://user-images.githubusercontent.com/97193844/174310084-57420312-b7fc-44bd-82e7-b1ad9acbd090.jpg)
+
 **Step 3: Beltrami Coefficient Computing**
 
 To compute the Beltrami coefficient of the smoothed V1 retinotopic map on one single selected subject, use following command.
@@ -78,3 +82,5 @@ Same as other two previous steps to run this step on all data at once you can ru
 ```
 step3_compute_bcm(1, 25);
 ``` 
+
+Folder ‘data_step3’ will be made in the current directory by running the command above on the selected data. The folder contains three sub-folder ‘figures’. 
