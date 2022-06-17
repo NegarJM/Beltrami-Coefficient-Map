@@ -10,8 +10,8 @@ By correcting most of the topological violations, the result was a “Beltrami c
 
   Download [Data](https://osf.io/5hvg6/files/) (data_step0) to replicate our work.
   
-  ![Uploading IMG_0982.jpg…]()
-  
+ ![Setup_data1](https://user-images.githubusercontent.com/97193844/174275329-509203d5-a04c-491c-ad7a-17ba6cae3bdd.jpg)
+ 
   Extract it into the project folder.
   
 **Before starting the processing**
@@ -62,6 +62,8 @@ step2_smooth(1, 25);
 Folder ‘data_step2’ will be made in the current directory by running the command above on the selected data. The folder contains three sub-folders ‘figures’, ‘smooth’ and ‘unsmooth’. You can find the smoothed and unsmoothed data in the sub-folder ‘smooth’ and ‘unsmooth’ respectively.
 
 You can find the following figures in 'figures' folder.
+
+![Figure1](https://user-images.githubusercontent.com/97193844/174284121-700779cd-a40b-4908-9d0a-1ba7c0feb0e8.jpg)
 
 **Step 3: Beltrami Coefficient Computing**
 
