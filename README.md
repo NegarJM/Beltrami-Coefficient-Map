@@ -16,7 +16,7 @@ By correcting most of the topological violations, the result was a “Beltrami c
   
 **Before starting the processing**
 
-Before starting the procedure you need to add bothe data and toolboxes to matlab path. By running the startup.m code from the project directory you can easily be ready to run the project. Alternatively you can run the following commands in command window.
+Before starting the procedure you need to add both dataset and toolboxes to matlab path. By running the startup.m code from the project directory you can easily be ready to run the project. Alternatively you can run the following commands in command window.
 
 ```
 addpath(genpath('utilties'))
