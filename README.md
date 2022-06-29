@@ -93,5 +93,5 @@ The V1 ROI vertices are shown in green and high confidence vertices will be mark
 
 Also you can find the Beltrami coefficient map of the unsmoothed and smoothed visual field coordinates after removing the flipped triangles.
 
-![step3-fig3](https://user-images.githubusercontent.com/97193844/176449845-2e5df3be-b57f-446b-a47e-3866809bb55d.png)
+![step3-fig3](https://user-images.githubusercontent.com/97193844/176450879-a436ae80-31e0-43f9-8cf3-a56fde1d640b.png)
 
