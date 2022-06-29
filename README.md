@@ -83,11 +83,15 @@ Same as other two previous steps to run this step on all data at once you can ru
 step3_compute_bcm(1, 25);
 ``` 
 
-Folder ‘data_step3’ will be made in the current directory by running the command above on the selected data. The folder contains three sub-folder ‘figures’. 
+Folder ‘data_step3’ will be made in the current directory by running the command above on the selected data. The folder contains a sub-folder ‘figures’. 
 
 The V1 ROI vertices are shown in green and high confidence vertices will be marked with blue dots. To compare the number of flipped triangles before and after smoothing, the following figures will be provided in folder 'figures' which is generated after running the commands above.
 
 ![step3-fig2](https://user-images.githubusercontent.com/97193844/176073033-517b8b28-2d7a-4d93-b202-6b8ef694a943.png)
 
 ![Step3-figure1](https://user-images.githubusercontent.com/97193844/176070781-802bca4e-1a46-4994-83b3-7a683eca110f.png)
+
+Also you can find the Beltrami coefficient map of the unsmoothed and smoothed visual field coordinates after removing the flipped triangles.
+
+![step3-fig3](https://user-images.githubusercontent.com/97193844/176449845-2e5df3be-b57f-446b-a47e-3866809bb55d.png)
 
